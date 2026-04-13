@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: shopkz
+server:
+  port:8000
