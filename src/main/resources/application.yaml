@@ -1,5 +1,10 @@
 spring:
   application:
     name: shopkz
+
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
 server:
-  port:8000
+  port: 8000
