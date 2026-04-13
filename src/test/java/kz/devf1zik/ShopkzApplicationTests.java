@@ -1,4 +1,4 @@
-package kz.devf1zik.shopkz;
+package kz.devf1zik;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
